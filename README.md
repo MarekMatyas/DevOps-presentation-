@@ -41,3 +41,15 @@ Git DevOps tool is easy to implement as it is compatible with most protocols inc
 
 **Maven** is one of the important DevOps tools for building projects. It is also designed to manage reporting, documentation, distribution, releases and dependencies processes. 
 
+### 3. *Continuous integration tool: Jenkins*
+
+**Jenkins** is an integration Devops tool. For continuous integration, Jenkins stands out as it is designed for both internal and plugin extensions. Jenkins is an open-source Java-based automation CI server that is supported by multiple operating systems including Windows, macOS, and other Unix OSs. Jenkins can be also deployed on cloud-based platforms.
+
+
+## How does DevOps benefit a business? 
+
+- The main benefit provided by DevOps strategies is the increased speed of deployment
+- Devops culture ensures that the right thing is being delivered faster while still being cost-effective
+- Tools like Lean are used to remove waste, tools like Agile are used to ensure that the right things are delivered quickly.
+- The use of DevOps tools allow for significant improvements in the product quality
+- Greater collaboration across business results in a better overall morale and chemistry. Barriers between teams are broken down through DevOps tools and culture
