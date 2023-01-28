@@ -30,4 +30,14 @@ DevOps
 
 ## Tools used in Devops
 
-![](1__eJaw96xLBR-xEzlwbTOyw.png)
+![](1__eJaw96xLBR-xEzlwbTOyw.png) 
+ 
+### 1. *Version control tool : Git*
+
+Git is perhaps the best and most widely used version control tool in development era characterized by dynamism and collaboration. 
+Git DevOps tool is easy to implement as it is compatible with most protocols including HTTP, SSH, and FTP.
+
+### 2. *Build tool: Maven*
+
+**Maven** is one of the important DevOps tools for building projects. It is also designed to manage reporting, documentation, distribution, releases and dependencies processes. 
+
