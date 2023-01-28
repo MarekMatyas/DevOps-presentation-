@@ -16,3 +16,18 @@ DevOps
 
 
 ![](960x0.jpg)
+
+## Benefits of DevOps
+
+- Faster, better product delivery
+- Greater automation
+- Reduces time spent recovering when incidents occur
+- Code is deployed 30x faster
+- %50 reduced failure rate
+- No cost of failure
+- Financially more efficient 
+
+
+## Tools used in Devops
+
+![](1__eJaw96xLBR-xEzlwbTOyw.png)
