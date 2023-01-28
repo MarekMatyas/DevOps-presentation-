@@ -53,3 +53,11 @@ Git DevOps tool is easy to implement as it is compatible with most protocols inc
 - Tools like Lean are used to remove waste, tools like Agile are used to ensure that the right things are delivered quickly.
 - The use of DevOps tools allow for significant improvements in the product quality
 - Greater collaboration across business results in a better overall morale and chemistry. Barriers between teams are broken down through DevOps tools and culture
+
+## DevOps and SDLC 
+
+The traditional **SDLC** (systems development life cycle) would have 5 specialist teams working horizontally with one another, work is passed from one team to the next. 
+
+In **DevOps** there will typically be four cross-functional teams which can deliver work to one another in a vertical manner, with each delivering and running an isolated component. 
+
+![](Systems-development-life-cycle-SDLC.jpg)
