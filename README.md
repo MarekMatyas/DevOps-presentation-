@@ -61,3 +61,28 @@ The traditional **SDLC** (systems development life cycle) would have 5 specialis
 In **DevOps** there will typically be four cross-functional teams which can deliver work to one another in a vertical manner, with each delivering and running an isolated component. 
 
 ![](Systems-development-life-cycle-SDLC.jpg)
+
+
+## Progress from being a Junior DevOps Engineer 
+
+After working as a Junior DevOps Engineer, your options are wide open. You can move up to a role such as **DevOps Cloud Engineer**.
+
+This role offers challenges relating  to managing, developing and operating systems and apps based on the Cloud.
+
+Some other fields in **DevOps*:
+
+- Release Manager
+- DevOps Test Engineer
+- DevOps Architect
+- Security & Compliance Engineer
+- Automation Architect 
+
+## Who is using *Devops* ? 
+
+A vast majority of companies used DevOps as an important part of their business such as : 
+
+1. Amazon
+2. Netflix
+3. Sony Pictures Entertainment 
+4. Adobe 
+5. Facebook 
