@@ -9,8 +9,10 @@ DevOps
 ## What does the DevOps role entail 
 
 - Continuous integration and continuous deployment
-- Using agile to collaborate with the team to make sure all systems are working properly and there are no failures
+- Using Agile to collaborate with the team to make sure all systems are working properly and there are no failures
 - Deploy programs in an efficient manner so that the user can instantly be able to use it with no issues
 - Monitoring and reporting any errors which reduces their time to be detected
 - To make sure that all code deployment is also secure so that there is no threat
 
+
+![](960x0.jpg)
