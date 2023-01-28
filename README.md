@@ -69,7 +69,7 @@ After working as a Junior DevOps Engineer, your options are wide open. You can m
 
 This role offers challenges relating  to managing, developing and operating systems and apps based on the Cloud.
 
-Some other fields in **DevOps*:
+Some other fields in *DevOps*:
 
 - Release Manager
 - DevOps Test Engineer
